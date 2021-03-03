@@ -7,7 +7,7 @@
 - [Kaggle Dataset](https://www.kaggle.com/tomigelo/spotify-audio-features)
 - [Data Science Rubric](https://www.notion.so/Data-Science-Unit-4-814c17e421334cd8b3d2867d1d49f541)
 
-### Project Details
+#### Project Details
 
  #### *Background*
 
@@ -17,13 +17,8 @@ is probably more of a feature engineering thing using domain experts.
 
 #### *We chose this model because:*
 
-We ended up using only Nearest Neighbors. While we found several research papers on using
+We ended up using only K-Nearest Neighbors. While we found several research papers on using
 Neural Networks, LSTMs on Nearest Neighbors, we were unable to find source code or pre-trained models.
-
-Research into siamese network matching algorithms looks more promising as they train much faster but we were also unable
-to create or find a ready to use model. Also Siamese networks scale much better than Nearest Neighbors as the
-dataset increases in size.
-
 
 Read more [here: K-Nearest Neighbors](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761) &  [here: K-Nearest Neighbors Documentation](https://scikit-learn.org/stable/modules/neighbors.html)
 

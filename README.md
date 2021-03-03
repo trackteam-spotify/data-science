@@ -5,7 +5,8 @@
 - [Product Vision Document](https://docs.google.com/document/d/1LnAeTMPiyoDOr_WhCDBgnm--AFyRnsOspLgMVkamS08/edit)
 - [Plotly Dash](https://lambdaschool.github.io/ds/unit2/dash-template/)
 - [Kaggle Dataset](https://www.kaggle.com/tomigelo/spotify-audio-features)
-- [Data Science Rubric](https://www.notion.so/Data-Science-Unit-4-814c17e421334cd8b3d2867d1d49f541)
+- [Unit 3 Data Engineer Rubric](https://www.notion.so/Data-Science-Unit-3-Rubric-3289d37e99924262bca2a1f7d0292f51)
+- [Unit 4 Machine Learning Engineer Rubric](https://www.notion.so/Data-Science-Unit-4-814c17e421334cd8b3d2867d1d49f541)
 
 #### Project Details
 
